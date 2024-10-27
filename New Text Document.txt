@@ -1,0 +1,2 @@
+MySQL DB Name	                MySQL User Name	 MySQL Password	        MySQL Host Name
+if0_35634947_it412security	if0_35634947	 g7mzGUWWnx	        sql312.infinityfree.com
